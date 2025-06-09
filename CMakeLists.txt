@@ -19,6 +19,7 @@ include(${Slicer_USE_FILE})
 #-----------------------------------------------------------------------------
 # Extension modules
 add_subdirectory(SegmentationVerification)
+add_subdirectory(SegmentationComparison)
 ## NEXT_MODULE
 
 #-----------------------------------------------------------------------------
